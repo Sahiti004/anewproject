@@ -1,3 +1,3 @@
 anyedit
 
-![download.jpg](https://raw.githubusercontent.com/Sahiti004/anewproject/main/images/1722511304795_download.jpg)
+![download.jpg](https://github.com/Sahiti004/anewproject/blob/main/images/1722512077396_download.jpg?raw=true)
